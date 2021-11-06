@@ -1,10 +1,14 @@
 
 # Hello and welcome to Vixens Gamiing network!
-We are a community of gamers and develpers trying to make game servers and services for everyone to enjoy, currently we have game servers on 
->Gmod 
+We are a community of gamers and develpers trying to make game servers and services for everyone to enjoy, currently we have game servers on
+>Gmod
+
 >Valhiem
+
 >Rust
+
 >7 days to die
+
 >GTAV (Five M)
 With more planned in the future.
 ## We hope you have a fun time playing on our servers!
