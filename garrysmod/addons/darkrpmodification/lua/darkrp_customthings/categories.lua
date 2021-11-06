@@ -20,4 +20,75 @@ DarkRP.createCategory{
 
 Add new categories under the next line!
 ---------------------------------------------------------------------------]]
-
+DarkRP.createCategory{
+    name = "Criminal",
+    categorises = "jobs",
+    startExpanded = true,
+    color = Color(224, 19, 19, 255),
+    canSee = function(ply) return true end,
+    sortOrder = 2
+}
+DarkRP.createCategory{
+    name = "Government",
+    categorises = "jobs",
+    startExpanded = true,
+    color = Color(229, 235, 8, 255),
+    canSee = function(ply) return true end,
+    sortOrder = 1
+}
+DarkRP.createCategory{
+    name = "Civilian",
+    categorises = "jobs",
+    startExpanded = true,
+    color = Color(53, 235, 8, 255),
+    canSee = function(ply) return true end,
+    sortOrder = 1
+}
+DarkRP.createCategory{
+    name = "City Police",
+    categorises = "jobs",
+    startExpanded = true,
+    color = Color(8, 44, 235, 255),
+    canSee = function(ply) return true end,
+    sortOrder = 1
+}
+DarkRP.createCategory{
+    name = "First Responder",
+    categorises = "jobs",
+    startExpanded = true,
+    color = Color(8, 235, 153, 255),
+    canSee = function(ply) return true end,
+    sortOrder = 2
+}
+DarkRP.createCategory{
+    name = "Bayou Cartel",
+    categorises = "jobs",
+    startExpanded = true,
+    color = Color(227, 70, 3, 255),
+    canSee = function(ply) return true end,
+    sortOrder = 2
+}
+DarkRP.createCategory{
+    name = "Hatchet Family",
+    categorises = "jobs",
+    startExpanded = true,
+    color = Color(88, 3, 227, 255),
+    canSee = function(ply) return true end,
+    sortOrder = 2
+}
+DarkRP.createCategory{
+    name = "Maple Street Gang",
+    categorises = "jobs",
+    startExpanded = true,
+    color = Color(227, 97, 3, 255),
+    canSee = function(ply) return true end,
+    sortOrder = 2
+}
+DarkRP.createCategory{
+    name = "South Side Mafia",
+    categorises = "jobs",
+    startExpanded = true,
+    color = Color(107, 94, 84, 255),
+    canSee = function(ply) return true end,
+    sortOrder = 2
+}

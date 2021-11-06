@@ -1,0 +1,3 @@
+Fri Nov  5 21:30:29 2021	GHOST (STEAM_0:0:90023306) has joined the game
+Fri Nov  5 21:30:29 2021	GHOST (STEAM_0:0:90023306) spawned
+Fri Nov  5 21:31:37 2021	GHOST (STEAM_0:0:90023306) spawned Vehicle prop_vehicle_jeep (Jeep)
