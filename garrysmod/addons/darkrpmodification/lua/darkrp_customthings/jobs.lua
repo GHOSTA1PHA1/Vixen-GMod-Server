@@ -306,16 +306,16 @@ Team_Civilian = DarkRP.createJob("Gun Dealer", {
     color = Color(54, 227, 11, 255),
     model = {"models/player/monk.mdl"},
     description = [[The Gun Dealer deals guns duh! Don't get caught selling illegal weapons though!]],
-    weapons = {},
+    weapons = {"weapon_glock2"},
     command = "Gun Dealer",
-    max = 5,
-    salary = 150,
+    max = 10,
+    salary = 100,
     admin = 0,
     vote = false,
     hasLicense = true,
     candemote = false,
-    category = "Civilian",
-    NeedToChangeFrom = team_Civilian,
+    category = "Criminal",
+    NeedToChangeFrom = TEAM_Civilian
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(200)
         ply:SetHealth(200)
