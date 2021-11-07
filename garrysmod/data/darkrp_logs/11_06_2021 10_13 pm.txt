@@ -1,0 +1,16 @@
+Sat Nov  6 22:13:16 2021	GHOST (STEAM_0:0:90023306) has joined the game
+Sat Nov  6 22:13:16 2021	GHOST (STEAM_0:0:90023306) spawned
+Sat Nov  6 22:39:38 2021	Xanthus (STEAM_0:0:503527060) has joined the game
+Sat Nov  6 22:39:38 2021	Xanthus (STEAM_0:0:503527060) spawned
+Sat Nov  6 22:40:04 2021	Xanthus (STEAM_0:0:503527060): Aye im in
+Sat Nov  6 22:40:24 2021	Xanthus (STEAM_0:0:503527060): And i see you fixed the judge issue XD
+Sat Nov  6 22:41:18 2021	Xanthus (STEAM_0:0:503527060): /raid
+Sat Nov  6 22:41:29 2021	Xanthus (STEAM_0:0:503527060): 
+Sat Nov  6 22:41:49 2021	Xanthus (STEAM_0:0:503527060): 
+Sat Nov  6 22:42:43 2021	Xanthus (STEAM_0:0:503527060): 
+Sat Nov  6 22:43:31 2021	Xanthus (STEAM_0:0:503527060): /a hi
+Sat Nov  6 22:43:49 2021	Xanthus (STEAM_0:0:503527060): 
+Sat Nov  6 22:44:40 2021	Xanthus (STEAM_0:0:503527060): /dropmoney 5
+Sat Nov  6 22:44:41 2021	Xanthus (STEAM_0:0:503527060) has dropped $5
+Sat Nov  6 23:12:19 2021	Xanthus (STEAM_0:0:503527060): /adminmode
+Sat Nov  6 23:31:01 2021	Xanthus (STEAM_0:0:503527060): 
