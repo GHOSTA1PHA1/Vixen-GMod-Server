@@ -1,0 +1,6 @@
+Sat Nov  6 23:39:58 2021	GHOST (STEAM_0:0:90023306) has joined the game
+Sat Nov  6 23:39:58 2021	GHOST (STEAM_0:0:90023306) spawned
+Sat Nov  6 23:45:37 2021	Xanthus (STEAM_0:0:503527060) has joined the game
+Sat Nov  6 23:45:37 2021	Xanthus (STEAM_0:0:503527060) spawned
+Sat Nov  6 23:46:15 2021	Xanthus (STEAM_0:0:503527060): /adminmode
+Sat Nov  6 23:48:09 2021	Xanthus (STEAM_0:0:503527060): /adminmode
