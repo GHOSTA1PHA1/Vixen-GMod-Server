@@ -1,0 +1,70 @@
+L 11/07/2021 - 00:55:43: Log file started (file "logs/L1107002.log") (game "/serverdata/serverfiles/garrysmod") (version "8283")
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_godmode" "1"
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_maxprops" "150"
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_maxragdolls" "6"
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_maxnpcs" "20"
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_maxballoons" "6"
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_maxeffects" "6"
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_maxdynamite" "6"
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_maxlamps" "6"
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_maxthrusters" "6"
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_maxwheels" "6"
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_maxhoverballs" "6"
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_maxvehicles" "70"
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_maxbuttons" "10"
+L 11/07/2021 - 00:55:43: server_cvar: "sbox_maxemitters" "6"
+L 11/07/2021 - 00:55:43: server_cvar: "sv_allowcslua" "1"
+L 11/07/2021 - 00:55:43: server_cvar: "sv_airaccelerate" "1000"
+L 11/07/2021 - 00:55:43: Connection to Steam servers successful.
+L 11/07/2021 - 00:55:43:    Public IP is 47.210.14.34.
+L 11/07/2021 - 00:55:43: Assigned persistent gameserver Steam ID [G-1:4547073].
+L 11/07/2021 - 00:55:44: VAC secure mode is activated.
+L 11/07/2021 - 01:01:53: "Xanthus<2><STEAM_0:0:503527060><>" connected, address "203.30.2.241:64169"
+L 11/07/2021 - 01:01:54: "Xanthus<2><STEAM_0:0:503527060><>" STEAM USERID validated
+L 11/07/2021 - 01:02:16: Lua Error: 
+[ERROR] gamemodes/darkrp/gamemode/modules/base/sv_data.lua:405: attempt to index a nil value
+  1. retrieveSalary - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:405
+   2. callback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:429
+    3. callback - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:324
+     4. query - gamemodes/darkrp/gamemode/libraries/mysqlite/mysqlite.lua:319
+      5. offlinePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:296
+       6. retrievePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:335
+        7. restorePlayerData - gamemodes/darkrp/gamemode/modules/base/sv_data.lua:420
+         8. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:716
+
+
+L 11/07/2021 - 01:02:16: Lua Error: 
+[ERROR] gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:735: attempt to index local 'jobTable' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:735
+
+
+L 11/07/2021 - 01:02:16: Lua Error: 
+[ERROR] gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:866: attempt to index local 'jobTable' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:866
+
+
+L 11/07/2021 - 01:02:16: "Xanthus<2><STEAM_0:0:503527060><>" entered the game
+L 11/07/2021 - 01:02:27: Lua Error: 
+[ERROR] gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:256: attempt to index local 'jobTable' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:256
+
+
+L 11/07/2021 - 01:02:28: Lua Error: 
+[ERROR] gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:256: attempt to index local 'jobTable' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:256
+
+
+L 11/07/2021 - 01:02:30: Lua Error: 
+[ERROR] gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:256: attempt to index local 'jobTable' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:256
+
+
+L 11/07/2021 - 01:02:32: Lua Error: 
+[ERROR] gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:256: attempt to index local 'jobTable' (a nil value)
+  1. unknown - gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:256
+
+
+L 11/07/2021 - 01:02:38: "Xanthus<2><STEAM_0:0:503527060><Unassigned>" say "kek"
+
+L 11/07/2021 - 01:02:41: Lua Error: 
+[ERROR] gamemodes/darkrp/gamemode/modules/base/sv_gamemode_functions.lua:256: attempt to in

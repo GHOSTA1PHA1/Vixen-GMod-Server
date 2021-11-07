@@ -1,0 +1,88 @@
+[00:55:43] New map: rp_southside
+[01:01:53] Client "Xanthus" connected.
+[01:02:16] Client "Xanthus" spawned in server <STEAM_0:0:503527060> (took 23 seconds).
+[01:02:38] Xanthus: kek
+
+
+
+[01:05:17] New map: rp_southside
+[01:09:31] Client "Xanthus" connected.
+[01:09:46] Client "Xanthus" spawned in server <STEAM_0:0:503527060> (took 15 seconds).
+[01:10:00] Xanthus: uwu
+[01:10:37] Xanthus: /adminmode
+[01:10:52] Client "GHOST" connected.
+[01:11:13] Client "GHOST" spawned in server <STEAM_0:0:90023306> (took 21 seconds).
+[01:13:08] Xanthus: /help
+[01:13:21] GHOST: !help
+[01:13:30] GHOST: /ulx
+[01:13:52] Xanthus: ban
+[01:13:57] Xanthus: !
+[01:14:03] Xanthus: !help
+[01:15:03] Xanthus: !ply
+[01:15:30] Xanthus: !csaydraw
+[01:15:36] Xanthus: !csayDraw
+[01:15:51] Xanthus: /csayDraw
+[01:15:54] Xanthus: !csayDraw
+[01:17:38] Dropped "Xanthus" from server<STEAM_0:0:503527060>
+[01:21:30] GHOST added GHOST to group superadmin
+[01:35:59] Dropped "GHOST" from server<STEAM_0:0:90023306>
+[01:40:43] Client "Xanthus" connected.
+[01:41:05] Client "Xanthus" spawned in server <STEAM_0:0:503527060> (took 22 seconds).
+[01:41:51] Client "GHOST" connected.
+[01:42:18] Client "GHOST" spawned in server <STEAM_0:0:90023306> (took 27 seconds).
+[01:42:29] Xanthus to GHOST: message
+[01:42:40] Xanthus to admins: message
+[01:42:51] Xanthus to admins: message
+[01:43:01] Xanthus to admins: test
+[01:43:10] Xanthus: /adminmode
+[01:43:34] GHOST added Xanthus to group superadmin
+[01:44:17] (SILENT) Xanthus began spectating GHOST
+[01:44:30] (SILENT) Xanthus stopped spectating GHOST
+[01:44:30] (SILENT) Xanthus began spectating GHOST
+[01:44:31] (SILENT) Xanthus stopped spectating GHOST
+[01:44:53] GHOST created group root which inherits rights from group superadmin
+[01:45:22] GHOST added Xanthus to group operator
+[01:45:39] GHOST added Xanthus to group root
+[01:45:56] Xanthus ignited GHOST for 300 seconds
+[01:45:59] Xanthus extinguished GHOST
+[01:46:03] GHOST added GHOST to group root
+[01:46:03] Xanthus jailed Themself
+[01:46:10] Xanthus unjailed Themself
+[01:46:16] Xanthus jailed GHOST
+[01:46:20] Xanthus unjailed GHOST
+[01:46:24] Xanthus teleported and jailed GHOST
+[01:46:29] Xanthus unjailed GHOST
+[01:46:32] Xanthus teleported and jailed GHOST
+[01:46:37] Xanthus unjailed GHOST
+[01:46:44] Xanthus teleported and jailed GHOST
+[01:46:47] Xanthus unjailed GHOST
+[01:46:50] Xanthus mauled GHOST
+[01:47:10] GHOST suicided!
+[01:47:32] Xanthus ragdolled GHOST
+[01:47:36] Xanthus unragdolled GHOST
+[01:47:39] Xanthus slapped GHOST with 0 damage
+[01:47:42] Xanthus ragdolled GHOST
+[01:48:14] Xanthus unragdolled GHOST
+[01:48:18] Xanthus stripped weapons from GHOST
+[01:48:24] Xanthus whipped GHOST 10 times with 0 damage
+[01:48:34] Xanthus whipped GHOST 100 times with 0 damage
+[01:48:53] Xanthus cloaked GHOST by amount 0
+[01:48:56] Xanthus uncloaked GHOST
+[01:49:06] Xanthus cloaked GHOST by amount 0
+[01:49:08] Xanthus uncloaked GHOST
+[01:49:10] Xanthus teleported and jailed GHOST
+[01:49:16] Xanthus cloaked GHOST by amount 0
+[01:49:20] Xanthus uncloaked GHOST
+[01:49:30] Xanthus unjailed GHOST
+[01:49:33] Xanthus jailed GHOST for 3 seconds
+[01:49:59] Xanthus teleported and jailed GHOST
+[01:50:03] Xanthus unjailed GHOST
+[01:54:43] GHOST suicided!
+[01:54:43] Xanthus slayed GHOST
+[01:54:58] Xanthus brought GHOST
+[01:56:17] Xanthus: /adminmode
+[01:56:49] Xanthus: /adminmode
+[01:59:28] Xanthus: /adminmode
+[01:02:22] GHOST removed all access rights from Xanthus
+[01:02:34] GHOST added Xanthus to group root
+[01:06:15] Xanthus teleported to GHOST

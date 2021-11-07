@@ -1,0 +1,71 @@
+L 11/07/2021 - 01:05:17: Log file started (file "logs/L1107003.log") (game "/serverdata/serverfiles/garrysmod") (version "8283")
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_godmode" "1"
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_maxprops" "150"
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_maxragdolls" "6"
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_maxnpcs" "20"
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_maxballoons" "6"
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_maxeffects" "6"
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_maxdynamite" "6"
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_maxlamps" "6"
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_maxthrusters" "6"
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_maxwheels" "6"
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_maxhoverballs" "6"
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_maxvehicles" "70"
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_maxbuttons" "10"
+L 11/07/2021 - 01:05:17: server_cvar: "sbox_maxemitters" "6"
+L 11/07/2021 - 01:05:17: server_cvar: "sv_allowcslua" "1"
+L 11/07/2021 - 01:05:17: server_cvar: "sv_airaccelerate" "1000"
+L 11/07/2021 - 01:05:17: Connection to Steam servers successful.
+L 11/07/2021 - 01:05:17:    Public IP is 47.210.14.34.
+L 11/07/2021 - 01:05:17: Assigned persistent gameserver Steam ID [G-1:4547073].
+L 11/07/2021 - 01:05:17: VAC secure mode is activated.
+L 11/07/2021 - 01:09:31: "Xanthus<2><STEAM_0:0:503527060><>" connected, address "203.30.2.241:64146"
+L 11/07/2021 - 01:09:31: "Xanthus<2><STEAM_0:0:503527060><>" STEAM USERID validated
+L 11/07/2021 - 01:09:46: "Xanthus<2><STEAM_0:0:503527060><>" entered the game
+L 11/07/2021 - 01:10:00: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "uwu"
+
+L 11/07/2021 - 01:10:37: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "/adminmode"
+
+L 11/07/2021 - 01:10:52: "GHOST<3><STEAM_0:0:90023306><>" connected, address "192.168.0.148:27005"
+L 11/07/2021 - 01:10:52: "GHOST<3><STEAM_0:0:90023306><>" STEAM USERID validated
+L 11/07/2021 - 01:11:13: "GHOST<3><STEAM_0:0:90023306><>" entered the game
+L 11/07/2021 - 01:13:08: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "/help"
+
+L 11/07/2021 - 01:13:21: "GHOST<3><STEAM_0:0:90023306><Judge>" say "!help"
+
+L 11/07/2021 - 01:13:30: "GHOST<3><STEAM_0:0:90023306><Judge>" say "/ulx"
+
+L 11/07/2021 - 01:13:52: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "ban"
+
+L 11/07/2021 - 01:13:55: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "!ban"
+
+L 11/07/2021 - 01:13:57: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "!"
+
+L 11/07/2021 - 01:14:03: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "!help"
+
+L 11/07/2021 - 01:14:07: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "!ban"
+
+L 11/07/2021 - 01:14:46: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "!kick GHOST"
+
+L 11/07/2021 - 01:15:03: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "!ply"
+
+L 11/07/2021 - 01:15:30: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "!csaydraw"
+
+L 11/07/2021 - 01:15:36: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "!csayDraw"
+
+L 11/07/2021 - 01:15:51: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "/csayDraw"
+
+L 11/07/2021 - 01:15:54: "Xanthus<2><STEAM_0:0:503527060><Judge>" say "!csayDraw"
+
+L 11/07/2021 - 01:17:38: "Xanthus<2><STEAM_0:0:503527060><>" disconnected (reason "Disconnect by user.")
+L 11/07/2021 - 01:21:30: [ULX] GHOST added GHOST to group superadmin
+L 11/07/2021 - 01:35:59: "GHOST<3><STEAM_0:0:90023306><>" disconnected (reason "GHOST timed out")
+L 11/07/2021 - 01:40:43: "Xanthus<4><STEAM_0:0:503527060><>" connected, address "122.148.235.71:27005"
+L 11/07/2021 - 01:40:43: "Xanthus<4><STEAM_0:0:503527060><>" STEAM USERID validated
+L 11/07/2021 - 01:41:05: "Xanthus<4><STEAM_0:0:503527060><>" entered the game
+L 11/07/2021 - 01:41:51: "GHOST<5><STEAM_0:0:90023306><>" connected, address "47.210.14.34:27005"
+L 11/07/2021 - 01:41:52: "GHOST<5><STEAM_0:0:90023306><>" STEAM USERID validated
+L 11/07/2021 - 01:42:18: "GHOST<5><STEAM_0:0:90023306><>" entered the game
+L 11/07/2021 - 01:42:29: [ULX] Xanthus to GHOST: message
+L 11/07/2021 - 01:42:40: [ULX] Xanthus to admins: message
+L 11/07/2021 - 01:42:51: [ULX] Xanthus to admins:
