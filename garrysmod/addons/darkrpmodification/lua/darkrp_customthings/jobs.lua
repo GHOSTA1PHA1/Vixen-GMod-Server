@@ -432,7 +432,7 @@ TEAM_Hatchet_Family = DarkRP.createJob("Garry Hatchet", {
 --[[---------------------------------------------------------------------------
 Define which team joining players spawn into and what team you change to if demoted
 ---------------------------------------------------------------------------]]
-GAMEMODE.DefaultJob = Citizen
+GAMEMODE.DefaultJob = Job_Citizen
 --[[---------------------------------------------------------------------------
 Define which teams belong to civil protection
 Civil protection can set warrants, make people wanted and do some other police related things
