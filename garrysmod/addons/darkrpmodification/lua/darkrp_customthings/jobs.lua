@@ -315,7 +315,7 @@ Team_Civilian = DarkRP.createJob("Gun Dealer", {
     hasLicense = true,
     candemote = false,
     category = "Criminal",
-    NeedToChangeFrom = TEAM_Civilian
+    NeedToChangeFrom = team_Civilian,
     PlayerSpawn = function(ply)
         ply:SetMaxHealth(200)
         ply:SetHealth(200)
