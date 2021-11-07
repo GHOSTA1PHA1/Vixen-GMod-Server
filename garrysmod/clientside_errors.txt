@@ -1,0 +1,18 @@
+GHOST|3|STEAM_0:0:90023306
+
+[darkrpmodification] addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:319: '}' expected (to close '{' at line 305) near 'PlayerSpawn'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
+Xanthus|2|STEAM_0:0:503527060
+
+[darkrpmodification] addons/darkrpmodification/lua/darkrp_customthings/jobs.lua:319: '}' expected (to close '{' at line 305) near 'PlayerSpawn'
+  1. loadCustomDarkRPItems - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:138
+   2. Call - gamemodes/darkrp/gamemode/libraries/modificationloader.lua:149
+    3. unknown - gamemodes/darkrp/gamemode/cl_init.lua:56
+
+
+
