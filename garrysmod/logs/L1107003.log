@@ -68,4 +68,69 @@ L 11/07/2021 - 01:41:52: "GHOST<5><STEAM_0:0:90023306><>" STEAM USERID validated
 L 11/07/2021 - 01:42:18: "GHOST<5><STEAM_0:0:90023306><>" entered the game
 L 11/07/2021 - 01:42:29: [ULX] Xanthus to GHOST: message
 L 11/07/2021 - 01:42:40: [ULX] Xanthus to admins: message
-L 11/07/2021 - 01:42:51: [ULX] Xanthus to admins:
+L 11/07/2021 - 01:42:51: [ULX] Xanthus to admins: message
+L 11/07/2021 - 01:42:58: "Xanthus<4><STEAM_0:0:503527060><Judge>" say "@"
+
+L 11/07/2021 - 01:43:01: [ULX] Xanthus to admins: test
+L 11/07/2021 - 01:43:01: "Xanthus<4><STEAM_0:0:503527060><Judge>" say "@ test"
+
+L 11/07/2021 - 01:43:10: "Xanthus<4><STEAM_0:0:503527060><Judge>" say "/adminmode"
+
+L 11/07/2021 - 01:43:34: [ULX] GHOST added Xanthus to group superadmin
+L 11/07/2021 - 01:44:17: [ULX] (SILENT) Xanthus began spectating GHOST
+L 11/07/2021 - 01:44:30: [ULX] (SILENT) Xanthus stopped spectating GHOST
+L 11/07/2021 - 01:44:30: [ULX] (SILENT) Xanthus began spectating GHOST
+L 11/07/2021 - 01:44:31: [ULX] (SILENT) Xanthus stopped spectating GHOST
+L 11/07/2021 - 01:44:53: [ULX] GHOST created group root which inherits rights from group superadmin
+L 11/07/2021 - 01:45:22: [ULX] GHOST added Xanthus to group operator
+L 11/07/2021 - 01:45:39: [ULX] GHOST added Xanthus to group root
+L 11/07/2021 - 01:45:56: [ULX] Xanthus ignited GHOST for 300 seconds
+L 11/07/2021 - 01:45:59: [ULX] Xanthus extinguished GHOST
+L 11/07/2021 - 01:46:03: [ULX] GHOST added GHOST to group root
+L 11/07/2021 - 01:46:03: [ULX] Xanthus jailed Themself
+L 11/07/2021 - 01:46:10: [ULX] Xanthus unjailed Themself
+L 11/07/2021 - 01:46:16: [ULX] Xanthus jailed GHOST
+L 11/07/2021 - 01:46:20: [ULX] Xanthus unjailed GHOST
+L 11/07/2021 - 01:46:24: [ULX] Xanthus teleported and jailed GHOST
+L 11/07/2021 - 01:46:29: [ULX] Xanthus unjailed GHOST
+L 11/07/2021 - 01:46:32: [ULX] Xanthus teleported and jailed GHOST
+L 11/07/2021 - 01:46:37: [ULX] Xanthus unjailed GHOST
+L 11/07/2021 - 01:46:44: [ULX] Xanthus teleported and jailed GHOST
+L 11/07/2021 - 01:46:47: [ULX] Xanthus unjailed GHOST
+L 11/07/2021 - 01:46:50: [ULX] Xanthus mauled GHOST
+L 11/07/2021 - 01:47:32: [ULX] Xanthus ragdolled GHOST
+L 11/07/2021 - 01:47:36: [ULX] Xanthus unragdolled GHOST
+L 11/07/2021 - 01:47:39: [ULX] Xanthus slapped GHOST with 0 damage
+L 11/07/2021 - 01:47:42: [ULX] Xanthus ragdolled GHOST
+L 11/07/2021 - 01:48:14: [ULX] Xanthus unragdolled GHOST
+L 11/07/2021 - 01:48:18: [ULX] Xanthus stripped weapons from GHOST
+L 11/07/2021 - 01:48:24: [ULX] Xanthus whipped GHOST 10 times with 0 damage
+L 11/07/2021 - 01:48:34: [ULX] Xanthus whipped GHOST 100 times with 0 damage
+L 11/07/2021 - 01:48:53: [ULX] Xanthus cloaked GHOST by amount 0
+L 11/07/2021 - 01:48:56: [ULX] Xanthus uncloaked GHOST
+L 11/07/2021 - 01:49:06: [ULX] Xanthus cloaked GHOST by amount 0
+L 11/07/2021 - 01:49:08: [ULX] Xanthus uncloaked GHOST
+L 11/07/2021 - 01:49:10: [ULX] Xanthus teleported and jailed GHOST
+L 11/07/2021 - 01:49:16: [ULX] Xanthus cloaked GHOST by amount 0
+L 11/07/2021 - 01:49:20: [ULX] Xanthus uncloaked GHOST
+L 11/07/2021 - 01:49:30: [ULX] Xanthus unjailed GHOST
+L 11/07/2021 - 01:49:33: [ULX] Xanthus jailed GHOST for 3 seconds
+L 11/07/2021 - 01:49:59: [ULX] Xanthus teleported and jailed GHOST
+L 11/07/2021 - 01:50:03: [ULX] Xanthus unjailed GHOST
+L 11/07/2021 - 01:54:43: [ULX] Xanthus slayed GHOST
+L 11/07/2021 - 01:54:58: [ULX] Xanthus brought GHOST
+L 11/07/2021 - 01:56:17: "Xanthus<4><STEAM_0:0:503527060><Citizen>" say "/adminmode"
+
+L 11/07/2021 - 01:56:49: "Xanthus<4><STEAM_0:0:503527060><Citizen>" say "/adminmode"
+
+L 11/07/2021 - 01:59:28: "Xanthus<4><STEAM_0:0:503527060><Drug Dealer>" say "/adminmode"
+
+L 11/07/2021 - 01:02:22: [ULX] GHOST removed all access rights from Xanthus
+L 11/07/2021 - 01:02:34: [ULX] GHOST added Xanthus to group root
+L 11/07/2021 - 01:06:15: [ULX] Xanthus teleported to GHOST
+L 11/07/2021 - 01:08:45: [ULX] Xanthus<STEAM_0:0:503527060> spawned model models/props_c17/concrete_barrier001a.mdl
+L 11/07/2021 - 01:08:46: [ULX] Xanthus<STEAM_0:0:503527060> spawned model models/props_c17/fence02b.mdl
+L 11/07/2021 - 01:11:11: [ULX] Xanthus<STEAM_0:0:503527060> spawned model models/props_building_details/storefront_template001a_bars.mdl
+L 11/07/2021 - 01:12:52: [ULX] Xanthus<STEAM_0:0:503527060> spawned model models/props_combine/combine_fence01b.mdl
+L 11/07/2021 - 01:13:26: [ULX] Xanthus<STEAM_0:0:503527060> spawned model models/props_combine/combine_fence01b.mdl
+L 11/07/2021 - 01:13:43: [ULX] Xanthus<STE

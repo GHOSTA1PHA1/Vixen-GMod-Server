@@ -38,3 +38,5 @@ Sun Nov  7 01:54:45 2021	GHOST (STEAM_0:0:90023306) spawned
 Sun Nov  7 01:56:17 2021	Xanthus (STEAM_0:0:503527060): /adminmode
 Sun Nov  7 01:56:49 2021	Xanthus (STEAM_0:0:503527060): /adminmode
 Sun Nov  7 01:59:28 2021	Xanthus (STEAM_0:0:503527060): /adminmode
+Sun Nov  7 01:17:37 2021	Xanthus (STEAM_0:0:503527060) disconnected
+Sun Nov  7 02:10:17 2021	GHOST (STEAM_0:0:90023306) disconnected

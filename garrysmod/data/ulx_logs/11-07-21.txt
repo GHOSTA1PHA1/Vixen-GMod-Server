@@ -86,3 +86,37 @@
 [01:02:22] GHOST removed all access rights from Xanthus
 [01:02:34] GHOST added Xanthus to group root
 [01:06:15] Xanthus teleported to GHOST
+[01:08:45] Xanthus<STEAM_0:0:503527060> spawned model models/props_c17/concrete_barrier001a.mdl
+[01:08:46] Xanthus<STEAM_0:0:503527060> spawned model models/props_c17/fence02b.mdl
+[01:11:11] Xanthus<STEAM_0:0:503527060> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[01:12:52] Xanthus<STEAM_0:0:503527060> spawned model models/props_combine/combine_fence01b.mdl
+[01:13:26] Xanthus<STEAM_0:0:503527060> spawned model models/props_combine/combine_fence01b.mdl
+[01:13:43] Xanthus<STEAM_0:0:503527060> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[01:13:58] Xanthus<STEAM_0:0:503527060> spawned model models/props_c17/furnitureradiator001a.mdl
+[01:14:03] Xanthus<STEAM_0:0:503527060> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[01:14:19] Xanthus<STEAM_0:0:503527060> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[01:17:37] Dropped "Xanthus" from server<STEAM_0:0:503527060>
+[02:10:17] Dropped "GHOST" from server<STEAM_0:0:90023306>
+
+
+
+[03:35:53] New map: rp_southside
+
+
+
+[05:21:28] New map: rp_southside
+
+
+
+[05:33:21] New map: rp_southside
+[10:05:27] Client "Native Jester" connected.
+[10:06:11] Client "Native Jester" spawned in server <STEAM_0:0:239296984> (took 44 seconds).
+[10:15:14] Client "N SO U DIE" connected.
+[10:15:36] Client "N SO U DIE" spawned in server <STEAM_0:1:82484622> (took 22 seconds).
+[10:16:40] Dropped "N SO U DIE" from server<STEAM_0:1:82484622>
+[10:53:23] Client "milkywaykid2021" connected.
+[13:21:53] Dropped "Native Jester" from server<STEAM_0:0:239296984>
+
+
+
+[23:17:36] New map: rp_southside

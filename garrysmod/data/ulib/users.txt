@@ -1,22 +1,22 @@
 "STEAM_0:0:90023306"	
 {
-	"name"	"GHOST"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
+	"name"	"GHOST"
 	"group"	"root"
 }
 "STEAM_0:0:503527060"	
 {
-	"name"	"Xanthus"
 	"deny"	
 	{
 	}
 	"allow"	
 	{
 	}
+	"name"	"Xanthus"
 	"group"	"root"
 }

@@ -1,0 +1,20 @@
+[02:15:10] New map: rp_southside
+[04:27:01] Client "Xanthus" connected.
+[04:27:56] Client "Xanthus" spawned in server <STEAM_0:0:503527060> (took 55 seconds).
+[04:32:40] Dropped "Xanthus" from server<STEAM_0:0:503527060>
+
+
+
+[15:40:11] New map: rp_southside
+
+
+
+[15:49:18] New map: rp_southside
+
+
+
+[20:39:46] New map: rp_southside
+
+
+
+[21:02:11] New map: rp_southside

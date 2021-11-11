@@ -1,0 +1,6 @@
+Sun Nov  7 10:06:11 2021	Native Jester (STEAM_0:0:239296984) has joined the game
+Sun Nov  7 10:06:12 2021	Native Jester (STEAM_0:0:239296984) spawned
+Sun Nov  7 10:15:36 2021	N SO U DIE (STEAM_0:1:82484622) has joined the game
+Sun Nov  7 10:15:36 2021	N SO U DIE (STEAM_0:1:82484622) spawned
+Sun Nov  7 10:16:40 2021	N SO U DIE (STEAM_0:1:82484622) disconnected
+Sun Nov  7 13:21:53 2021	Native Jester (STEAM_0:0:239296984) disconnected
